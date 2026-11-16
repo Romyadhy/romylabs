@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/run/media/romykeren/EndeavourOS/home/romy/Documents/project/romylabs/src/C++nC/game/2D/combat/build",
+  "command": "/usr/bin/c++ -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DUSE_LIBTYPE_SHARED  -std=gnu++17 -o CMakeFiles/combat.dir/src/main.cpp.o -c /run/media/romykeren/EndeavourOS/home/romy/Documents/project/romylabs/src/C++nC/game/2D/combat/src/main.cpp",
+  "file": "/run/media/romykeren/EndeavourOS/home/romy/Documents/project/romylabs/src/C++nC/game/2D/combat/src/main.cpp",
+  "output": "CMakeFiles/combat.dir/src/main.cpp.o"
+}
+]

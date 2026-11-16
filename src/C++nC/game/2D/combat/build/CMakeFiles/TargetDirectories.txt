@@ -1,0 +1,3 @@
+/run/media/romykeren/EndeavourOS/home/romy/Documents/project/romylabs/src/C++nC/game/2D/combat/build/CMakeFiles/combat.dir
+/run/media/romykeren/EndeavourOS/home/romy/Documents/project/romylabs/src/C++nC/game/2D/combat/build/CMakeFiles/edit_cache.dir
+/run/media/romykeren/EndeavourOS/home/romy/Documents/project/romylabs/src/C++nC/game/2D/combat/build/CMakeFiles/rebuild_cache.dir
