@@ -6,3 +6,5 @@
 - Next we done uploading this project into github, and maybe we change a stucture into my familiar structure
 - Next about hyyoth things maybe?
 # 16-11-2026
+- Add visual thing from hayyoth, about random move number
+- But cannot move for now, we'll see
