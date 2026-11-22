@@ -8,3 +8,8 @@
 # 16-11-2026
 - Add visual thing from hayyoth, about random move number
 - But cannot move for now, we'll see
+# 20-11-2026
+- We continue it now, letsgo
+# 22-11-2026
+- We solve it its just for condition that had miss variabel and logics, and we push it.
+
