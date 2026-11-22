@@ -13,7 +13,7 @@ int next [HEIGHT] [WIDTH] = {0};
 
 void render(void){
   for (size_t j = 0; j < HEIGHT; j++) {
-    for (size_t i = 0; WIDTH; i++) {
+    for (size_t i = 0; i < WIDTH; i++) {
       if (!state[j][i]) {
         printf("%c", ' ');
       }
@@ -38,7 +38,7 @@ const int moves[8][2]={
 
 void update(void){
   for (size_t j = 0; j < HEIGHT; j++) {
-    for (size_t i = 0; WIDTH; i++) {
+    for (size_t i = 0; i < WIDTH; i++) {
       if (state[j][i]) {
         const int *move = moves[rand() %2];
         int nj = j + move[0];
